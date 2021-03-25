@@ -6,7 +6,7 @@
 
  date    : 2021/03/19
 
- update  :
+ update  : 2021/03/25
 
 ***
 ### Summary
@@ -34,6 +34,13 @@ yarn dev
 * build SSG
 
 yarn deploy
+
+***
+### Headless CMS
+kuc-arc-f / headless-2-redis
+
+https://github.com/kuc-arc-f/headless-2-redis
+
 
 ***
 ### Blog : 
