@@ -41,6 +41,9 @@ kuc-arc-f / headless-2-redis
 
 https://github.com/kuc-arc-f/headless-2-redis
 
+***
+### sample SSG URL
+https://cms-kuc-jamstack-ex5.netlify.app/
 
 ***
 ### Blog : 
